@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhankarroy612&label=Profile%20views&color=0e75b6&style=flat" alt="subhankarroy612" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhankarroy612" alt="subhankarroy612" /></a> </p>
+
 
 - 👨‍💻 All of my projects are available at [https://subhankarroy612.github.io](https://subhankarroy612.github.io)
 
